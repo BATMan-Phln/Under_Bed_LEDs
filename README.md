@@ -1,6 +1,9 @@
 # Under_Bed_LEDs
 RGB LED strips under our bed controlled by Arduino
 
+
+NOTE: SEE The_Project.docx FOR ANY NEW IDEAS/INFO.
+
 This is the first project that I've posted here.  
 
 My project: Under bed lights
