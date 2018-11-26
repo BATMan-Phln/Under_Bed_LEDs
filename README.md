@@ -6,7 +6,7 @@ This is the first project that I've posted here.
 My project: Under bed lights
 
 My skill Level:
-      If I was a bit better, I could be considered a novice.  I’m trying very hard to learn coding but, due to the amount of medications that I take, I have a Swiss cheese brain.  I’ve been trying to learn this for a very long time.  This project is light years over my head but it’s something that we need done.  I appreciate any help I can get.
+      If I was a bit better, I could be considered a novice.  I’m trying very hard to learn coding but, due to the amount of medications that I take, I have a Swiss cheese brain.  I’ve been trying to learn this for a very long time.  This project is light years over my head but it’s something that we need done.  I was getting help from a guy half a world away.  Between the different times, it was difficult to have a conversation.  Plus, he's a college student and had very little time to spare.  I appreciate any help I can get.
 
 Hardware:
     o	2 sets of RGB LED strips (One on my side only and one on the foot and wife’s side)
