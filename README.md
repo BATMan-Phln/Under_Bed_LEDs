@@ -10,17 +10,11 @@ My skill Level:
 
 Hardware:
     o	2 sets of RGB LED strips (One on my side only and one on the foot and wife’s side)
-
     o	44 key remote with 6 programmable buttons (DIY)
-
     o	3 PIR motion sensors (1 on my side, one at my wife’s side and one at the foot aimed toward the door.
-
     o	2 “panic” buttons (1 on each bedside table)
-
     o	1 LDR
-
     o	1 Arduino Leonardo (it has more interrupt pins)
-
     o	12V battery and relay for power outages
 
 
